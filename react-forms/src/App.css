@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding: 15px;
+  background-color: #363636;
+  box-shadow: 0px 0px 10px 5px #880000;
+}
+
+input {
+  margin: 10px auto;
+}
+
+label {
+  margin: 10px auto;
+}
+
+button {
+  margin: 10px;
+}
